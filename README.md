@@ -33,6 +33,4 @@ I was able to build something small yet useful in a little amount of time, this 
 
 ## Demo :star:
 **_youtube_** : https://youtu.be/ATToJ4n11zs
-<div align = "center">
-<img src="20201220_162436.jpg" />
-</div>
+
