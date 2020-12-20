@@ -9,13 +9,15 @@
         android:layout_width="120dp"
         android:id="@+id/cardView"
         android:layout_gravity="center"
-        android:elevation="3dp"
+        android:elevation="8dp"
+        app:cardCornerRadius="8dp"
         android:layout_height="120dp">
         <ImageButton
             android:id="@+id/imageButton"
             android:layout_width="match_parent"
-            android:layout_height="118dp"
+            android:layout_height="match_parent"
             android:layout_weight="1"
+            android:layout_margin="3dp"
             android:background="@color/white"
             android:scaleType="centerCrop"
             app:srcCompat="@drawable/cover" />
