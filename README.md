@@ -22,6 +22,8 @@ I was able to build something small yet useful in a little amount of time, this 
 ## What I learned :books:
 * Kotlin
 * Android and Kotlin
+* Recyclerview
+* Using vector icons
 
 ## What's next for Remember: A memory game
 * The user can play the game using custom images.
@@ -30,4 +32,5 @@ I was able to build something small yet useful in a little amount of time, this 
 * Work on the UI.
 
 ## Demo :star:
-https://youtu.be/ATToJ4n11zs
+**_youtube_** : https://youtu.be/ATToJ4n11zs
+
