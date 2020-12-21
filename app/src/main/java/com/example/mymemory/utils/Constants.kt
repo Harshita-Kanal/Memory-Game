@@ -1,6 +1,7 @@
 package com.example.mymemory.utils
 
 import com.example.mymemory.R
+const val EXTRA_BOARD_SIZE = "EXTRA_BOARD_SIZE"
 
 val DEFAULT_ICONS = listOf(
     R.drawable.ic_baseline_face_24,

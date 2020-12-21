@@ -7,6 +7,10 @@
         android:title="Choose new size"
         app:showAsAction="never" />
     <item
+        android:id="@+id/mi_custom"
+        android:title="Create custom game"
+        app:showAsAction="never" />
+    <item
         android:icon="@drawable/ic_baseline_refresh_24"
         android:id="@+id/miRefresh"
         android:title="Refresh"
