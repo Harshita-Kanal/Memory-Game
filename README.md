@@ -1,7 +1,7 @@
 
 # _Remember: A memory game in kotlin_
 ## Inspiration
-**_The theme of the hackathon is sports, a sport is anything that challenges you and makes you do better, that was the reason, I decided to build an android application which is  game in Kotlin. It is a memory game which is fully customizable. You can test your memory by flipping cards and matching them. The difficulty level can be increased as per choice._**
+**_The theme of the hackathon is sports, that was the reason, I decided to build an android application which is  game in Kotlin. It is a memory game which is fully customizable. You can test your memory by flipping cards and matching them. The difficulty level can be increased as per choice._**
 
 ## What it does :running:
 * Play the traditional memory game.
