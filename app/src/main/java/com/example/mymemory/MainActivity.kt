@@ -2,6 +2,7 @@ package com.example.mymemory
 
 import android.animation.ArgbEvaluator
 import android.content.Intent
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -21,6 +22,7 @@ import com.example.mymemory.models.MemoryCard
 import com.example.mymemory.models.MemoryGame
 import com.example.mymemory.utils.DEFAULT_ICONS
 import com.example.mymemory.utils.EXTRA_BOARD_SIZE
+import com.github.jinatonic.confetti.CommonConfetti
 import com.google.android.material.snackbar.Snackbar
 
 class MainActivity : AppCompatActivity() {
@@ -191,6 +193,7 @@ class MainActivity : AppCompatActivity() {
           tvNumPairs.text = "Pairs: ${memoryGame.numPairsFound} / ${boardSize.getNumPairs()}"
           if(memoryGame.haveWonGame()){
               Snackbar.make(clRoot, "You won! Congrats. ✨", Snackbar.LENGTH_LONG ).show()
+              CommonConfetti.rainingConfetti(clRoot, intArrayOf(Color.YELLOW, Color.MAGENTA,Color.GREEN)).stream(10000)
           }
       }
 
