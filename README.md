@@ -39,6 +39,15 @@ I was able to build something small yet useful in a little amount of time, this 
 * Background music can be added.
 * Work on the UI.
 
-## Demo :star:
-**_youtube_** : https://youtu.be/ATToJ4n11zs
+## Screenshots ✨
+<p  align = "center">
+ <table>
+   <tr>
+    <td><img src="/Screenshot_1609364011.png" width=270 height=480></td>
+    <td><img src="/Screenshot_1609364055.png" width=270 height=480></td>
+    <td><img src="/Screenshot_1609364071.png" width=270 height=480></td>
+  </tr>
+</table>
+</p>
+
 
