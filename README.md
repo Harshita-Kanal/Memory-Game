@@ -20,7 +20,7 @@
 The app was built fully in Kotlin, using android studio and firestore.
 
 ## Challenges I ran into 
-Before the hackathon, I knew little about Kotlin, it was an opportunity for me to learn a language and a technology entirely from scratch while building something. I encountered, several errors and browsed the internet to solve them. Setting up the emulator was also a challenge.
+Earlier, I knew little about Kotlin, it was an opportunity for me to learn a language and a technology entirely from scratch while building something. I encountered, several errors and browsed the internet to solve them. Setting up the emulator was also a challenge.
 
 ## Accomplishments that I'm proud of :heart:
 I was able to build something small yet useful in a little amount of time, this is the first time I have made a game.
